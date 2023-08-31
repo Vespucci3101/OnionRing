@@ -3,7 +3,9 @@
 This is a personal project made with Unity. It is a roguelike/rythm/pokemon game combining different ideas from other popular game. The game contains many iconic video game character that you have to defeat to become the ultimate video game hero. 
 You will fight your way in music battles through epic music to defeat your enemies and make it to the end. Each enemy is unique and has unique skills to bring you down.
 
-It is important to note that this game is still **IN PROGRESS**. Most of the gameplay is done, but being only a programmer, not many texture/materials and art stuff are done.
+It is important to note that this game is still **IN PROGRESS**. 
+The code partly needs some refactoring and elements can be improved. I always try to do things at the best of my knowledge and everyday I try to improve this project.
+Most of the gameplay is done, but being only a programmer, not many texture/materials and art stuff are done.
 
 ![OnionRing](https://github.com/Vespucci3101/OnionRing/assets/71458452/5239e6e5-f339-40fc-938e-ada1d7a5d35f)
 
